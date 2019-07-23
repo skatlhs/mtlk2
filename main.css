@@ -9,3 +9,17 @@
     opacity: 0.5;
     width: 50%;
 }
+
+body, html {
+    position: relative;
+    top:-7px;
+}
+
+.bannerimg {
+    width: 100%;
+    position: relative;
+    height:86vh;
+    background: url(assets/images/banner.jpeg);
+    background-size: 100% 100%;
+    
+}
